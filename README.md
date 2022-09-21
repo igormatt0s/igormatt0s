@@ -1,4 +1,4 @@
-## Olá! Eu sou o Igor Mattos 👋
+## Hi! I am Igor Mattos 👋
 
 - 👨‍💻 I'm currently working on ForLogic
 - 📚 I'm currently studying on UTFPR-CP
