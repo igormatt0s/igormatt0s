@@ -20,7 +20,6 @@
   <img align="center" alt="Igor-C++" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="right" alt="Yoda-pic" src="https://github.com/igormatt0s/igormatt0s/blob/main/Yoda.gif">
 </div>
-</div>
 
   ##
   
