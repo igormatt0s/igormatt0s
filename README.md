@@ -20,8 +20,7 @@
   <img align="center" alt="Igor-C++" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
   
-  <div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:100%;position:relative;"><iframe width="360" height="360" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6u6isi"></iframe></div><p><a href="https://imgflip.com/gif/6u6isi">via Imgflip</a></p></div>
-  
+  <a href="https://imgflip.com/embed/6u6jf2" target="_blank"><img src="https://imgflip.com/gif/6u6jf2" target="_blank"></a>
   ##
 
   <div>
