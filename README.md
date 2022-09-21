@@ -18,8 +18,10 @@
   <img align="center" alt="Igor-Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Igor-C++" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Igor-C++" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <p><img align="right" alt="Yoda-pic" height="320" width="500" src="https://github.com/igormatt0s/igormatt0s/blob/main/Yoda.gif"></p>
+  
 </div>
+  
+  <p><img align="right" alt="Yoda-pic" height="320" width="500" src="https://github.com/igormatt0s/igormatt0s/blob/main/Yoda.gif"></p>
   
   ##
   
