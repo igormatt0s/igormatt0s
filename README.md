@@ -20,7 +20,7 @@
   <img align="center" alt="Igor-C++" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
   
-  <a href="https://imgflip.com/embed/6u6jf2" target="_blank"><img src="https://imgflip.com/gif/6u6jf2" target="_blank"></a>
+  <a href="https://media.giphy.com/media/krkrHAEodHgzP72rTI/g.gif" target="_blank"><img src="https://media.giphy.com/media/krkrHAEodHgzP72rTI/g.gif" target="_blank"></a>
   ##
 
   <div>
