@@ -21,7 +21,7 @@
   
 </div>
   
-  <p><img align="right" alt="Yoda-pic" height="320" width="500" src="https://github.com/igormatt0s/igormatt0s/blob/main/Yoda.gif"></p>
+  <p><img align="right" alt="Yoda-pic" height="320" width="320" src="https://github.com/igormatt0s/igormatt0s/blob/main/Yoda.gif"></p>
   
   ##
   
