@@ -20,10 +20,10 @@
   <img align="center" alt="Igor-C++" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
   
+  <div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:100%;position:relative;"><iframe width="360" height="360" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6u6isi"></iframe></div><p><a href="https://imgflip.com/gif/6u6isi">via Imgflip</a></p></div>
+  
   ##
-  
-  <p><img alt="Yoda-pic" height="320" width="320" src="https://github.com/igormatt0s/igormatt0s/blob/main/Yoda.gif"></p>
-  
+
   <div>
   <a href="https://www.instagram.com/igormatt0s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/mrxNVfXG" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
