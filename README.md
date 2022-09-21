@@ -1,15 +1,20 @@
 ## Hi! I am Igor Mattos 👋
 
-- 👨‍💻 I'm currently working on ForLogic
+- 👨‍💻 I'm currently looking for professional development and an opportunity
 - 📚 I'm currently studying on UTFPR-CP
 - 🌱 I'm studying Computer Engineering
 - 🚀 I'm currently studying HTML, CSS, JavaScript, C#
 
-<div align="center">
+  <div align="center">
   <a href="https://github.com/igormatt0s">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igormatt0s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormatt0s&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+<div>
+<img align="right" alt="Yoda" height="180em" src="https://github.com/igormatt0s/Ola_mundo/blob/main/Yoda.gif">
+  <a href="https://github.com/igormatt0s">
+  </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
