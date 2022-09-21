@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Igor Mattos 👋
 
 - 👨‍💻 I'm currently working on ForLogic
-- 📚 I'm currently sutying on UTFPR-CP
+- 📚 I'm currently studying on UTFPR-CP
 - 🌱 I'm studying Computer Engineering
 - 🚀 I'm currently studying HTML, CSS, JavaScript, C#
 
