@@ -3,7 +3,7 @@
 - 👨‍💻 I'm currently looking for professional development and an opportunity
 - 📚 I'm currently studying on UTFPR-CP
 - 🌱 I'm studying Computer Engineering
-- 🚀 I'm currently studying HTML, CSS, JavaScript, C#
+- 🚀 I'm currently studying HTML5, CSS3, JavaScript, C#
 
   <div align="center">
   <a href="https://github.com/igormatt0s">
