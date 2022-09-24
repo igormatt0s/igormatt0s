@@ -3,7 +3,7 @@
 - 👨‍💻 I'm currently looking for professional development and an opportunity
 - 📚 I'm currently studying on UTFPR-CP
 - 🌱 I'm studying Computer Engineering
-- 🚀 I'm currently studying HTML5, CSS3, JavaScript, C#
+- 🚀 I'm currently studying HTML5, CSS3, JavaScript, C#, Python
 
   <div align="center">
   <a href="https://github.com/igormatt0s">
@@ -22,9 +22,10 @@
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Igor-Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Igor-C++" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Igor-C++" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  
-</div>
+  <img align="center" alt="Igor-C" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Igor-Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Igor-GitHub" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  </div>
 
   ##
 
