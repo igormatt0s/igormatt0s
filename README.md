@@ -6,8 +6,6 @@
 - 🌱 I had experience with SQL and PostgreSQL in my first job as a Systems Analyst apprentice
 - 🚀 I'm currently learning HTML5, CSS3, JavaScript, C#, Python
 
-<img align="right" height="180em" src="https://user-images.githubusercontent.com/101291190/192128452-50281f67-0dfe-40a2-a7b5-d8c89c8652f1.gif"> 
-
 <div align="center">
   <a href="https://github.com/igormatt0s">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=igormatt0s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -22,6 +20,9 @@
   <img align="center" alt="Igor-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Igor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  
+  <img align="right" height="160em" src="https://user-images.githubusercontent.com/101291190/192128452-50281f67-0dfe-40a2-a7b5-d8c89c8652f1.gif"> 
   
 </div>    
   
