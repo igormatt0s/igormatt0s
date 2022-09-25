@@ -18,7 +18,7 @@
   <img align="center" alt="Igor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:100%;position:relative;"><iframe width="260" height="260" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6ulgz7"></iframe></div><p><a href="https://imgflip.com/gif/6ulgz7">via Imgflip</a></p></div>
+
   <div><img align="right" alt="Yoda-gif" height="260" src="https://imgflip.com/gif/6ulgz7"></div>
   
   ##
