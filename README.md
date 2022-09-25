@@ -19,15 +19,12 @@
   <img align="center" alt="Igor-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Igor-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Igor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  
-  <img align="right" height="160em" src="https://user-images.githubusercontent.com/101291190/192128452-50281f67-0dfe-40a2-a7b5-d8c89c8652f1.gif"> 
+  <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   
 </div>    
   
  
-
+<img align="right" src="https://user-images.githubusercontent.com/101291190/192128452-50281f67-0dfe-40a2-a7b5-d8c89c8652f1.gif">
   
   ##  
   
