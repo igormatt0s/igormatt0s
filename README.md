@@ -4,7 +4,7 @@
 - 📚 I'm currently studying Computer Engineering at UTFPR
 - 💡 I'm a passionate technology and science enthusiast
 - 🌱 I had experience with MYSQL and PostgreSQL in my first job as a Systems Analyst apprentice
-- 🚀 I'm currently learning HTML5, CSS3, JavaScript, TypeScript, C#, Python.
+- 🚀 I'm currently learning HTML5, CSS3, JavaScript, TypeScript, C#, Python
 
 <div align="center">
 <a href="https://github.com/igormatt0s">
