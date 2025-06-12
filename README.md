@@ -40,7 +40,6 @@
    <a href = "mailto:yigor88mattos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
    <a href="https://www.linkedin.com/in/igor-araujo-de-mattos-765a931a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/igormatt0s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://twitter.com/igormatt0s" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg/mrxNVfXG" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
    <a href="https://t.me/Igor0505" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   
